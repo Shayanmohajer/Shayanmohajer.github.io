@@ -1,3 +1,11 @@
+## About Me
+
+I am currently completing my final year as a PhD candidate in the Department of Computer and Electrical Engineering at the University of Waterloo, Canada. My research focuses on optimization methods in machine learning, with particular interests in federated learning, diffusion models, and knowledge distillation. Prior to pursuing my Ph.D., I earned my graduate degree from the same department at the University of Waterloo. I alse receved my Bachelor in Electrical Engineering from Sharif University, Iran.
+
+My academic journey has equipped me with strong interpersonal skills, and I am enthusiastic about collaborating with others. I have a track record of publications in prestigious AI/ML conferences, including ICLR, TMLR and ECCV. Additionally, I have gained expertise in programming languages such as Python, and frameworks like PyTorch and Tensorflow.
+
+
+
 ## Recent Peer-Reviewed Papers:
 1. **S.M. Hamidi**, X. Deng, R.Tan, L. Ye, and A. H. Salamah, "How to Train the Teacher Model for Effective Knowledge Distillation", **ECCV 2024**.
 2. E-H. Yang, **S.M. Hamidi**, L. Ye, R. Tan, B. Yang, "Conditional Mutual Information Constrained Deep Learning: Framework and Preliminary Results", **ISIT 2024**.
